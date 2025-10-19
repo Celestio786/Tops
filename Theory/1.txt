@@ -1,0 +1,28 @@
+	C is a procedural general-purpose programming language that was originally created by Dennis Ritchie in 1972 in Bell Laboratories of AT&T Labs. It was originally intended as a system programming language to implement the UNIX system. C has become one of the world's most influential programming languages that is universally applied in a variety of applications owing to being memory-efficient, being able to provide low-level control, and being portable.
+
+	C was developed to overcome the limitations of languages like B and BCPL. These languages had no real data typing capability, and their structured programming was on the primitive side. Dennis Ritchie began programming in C in 1972, as an effort to make UNIX both more portable and more functional. By 1973, the UNIX operating system was virtually rewritten in C, and we had complete system programming working in C.
+
+	Dennis Ritchie and Brian Kernighan published The C Programming Language, now referred to as the "K&R" book. It established the de facto standard for the C language. In that book, Ritchie and Kernighan defined C's syntax and semantics, also called "K&R C".
+
+	As C gained popularity, variations emerged across different compilers and platforms, necessitating standardization.ANSI C (C89/C90): In 1983 the American National Standards Institute (ANSI) committee completed a final draft standard known as ANSI C. After the standard development the ANSI C was approved as a standard in 1989 (C89), then in 1990 the ANSI C standard was approved by International Organization for Standardization (ISO) as (C90). In addition to introducing function prototypes, and standard libraries, the ANSI C standard introduced formal libraries and stricter requirements for type checking.
+C99 (1999): C99 introduced a variety of constructs, including: inline functions, variable-length arrays, complex numbers, and other improvements to floating-point operations. C99 also introduced the long long data type and the nature of single-line comments (//).
+C11 (2011): C11 introduced many new features and addressed safety and concurrency. The most notable is Generic type-generic programming, threading support (threads.h), and Unicode.
+C17/C18 (2017): The C17/C18 standard is a minor revision of C11. The standard also fixed bugs in C11, and dependencies might change or clarify ambiguities left in C11, with no notable additions.
+C23 (2023): C23 is the latest standard, which added features such as nullptr, binary literals, and more advanced support modern hardware architecture.
+
+	Because of its low-level control and performance, C as a language is a goto for operating system development. The UNIX operating system itself was rewritten in C, and it established C as a standard for system programming. Similar to UNIX, modern operating systems are now heavily implemented in C – Linux, Windows, and macOS all make use of C in their kernels, device drivers, and system utilities.
+
+	C is heavily used in embedded systems programming, in large part due to its ability to interact directly with hardware. Microcontrollers in products such as Arduino, automotive control units, and IoT devices are all implemented using C to provide a program the ability to use limited resources, associated with real-time programming.
+
+	Because of its efficiency, C is frequently used in developing compiler and interpreters. The GNU Compiler Collection (GCC) and the Python's CPython interpreter are both implemented in C. Because of C's ability to provide a fast speed and portability, both of these compilers/interpreters benefit from parsing the code and executing it.
+
+	C is employed in database systems for performance-critical components. SQLite, MySQL, and PostgreSQL use C for backend processing, storage management, and query execution, ensuring fast and reliable data operations.		
+
+	C powers networking software, including TCP/IP stacks, web servers (e.g., Apache, Nginx), and network drivers. Its low-level socket programming capabilities enable efficient communication in distributed systems.
+
+	C is often employed in game development for performance-heavy tasks like rendering and physics calculations. Engine systems such as Unreal Engine use C for core features that interface with graphical APIs like OpenGL.
+
+	C supports high-performance scientific applications, including numerical simulations and supercomputing tasks. Libraries like BLAS are implemented in C for efficient matrix operations in fields like physics and climate modelling.
+
+	C is essential for real-time systems, including aerospace control (usually flight controllers), medical devices, and industrial automation. Its deterministic performance provides precise timing within applications, such as flight controllers and robotic systems.
+

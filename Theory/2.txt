@@ -1,0 +1,15 @@
+I am using Windows because of that I will download MinGW which is a native port of the GNU Compiler Collection (GCC). To install it follow the steps below.
+
+step 1 : search "Mingw" on your browser.
+step 2 : click the link "https://sourceforge.net/projects/mingw/" which will take you to their main page where u can click download which will download mingw on your system.
+step 3 : now u can double click the mingw-get-setup file in your file explorer to open the installation screen now u can simply click the install button to get mingw installed on your windows.
+note : don't forget to change the directory of the installation if you want to.
+
+Now that we have a C compiler we also need a IDE (Integrated Development Environment) I will be using visual studio code for this.
+
+step 1 : Download VS code setup file  from: https://code.visualstudio.com/
+step 2 : Install according to your preference for example if u want to change the directory of the installation or want to open vs code from aa folder.
+step 3 : make a folder where u want to write c programs
+step 4 : If u want u can download an extension which makes c run on VS code quickly by going to the extension bar which is situated on the top left position (the last button).
+step 5 : search "Code Runner" and install it close and restart VS code and now u r all set my friend.
+note : i am using the code runner extension to run C on Vs code anad also installed C/C++ extension by Microsoft for essential features like highlighting, debugging,etc.
